@@ -18,9 +18,8 @@
 [<img height="26px" align="left" alt="php" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/php.png?raw=true">](https://www.php.net/)
 [<img height="26px" align="left" alt="yiiframework" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/yii2.png?raw=true">](https://www.yiiframework.net/)
 
-<br />
-
-### Статистика
+### Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkhipovandrei)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkhipovandrei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
