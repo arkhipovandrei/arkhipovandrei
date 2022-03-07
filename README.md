@@ -15,8 +15,8 @@
 [<img height="26px" align="left" alt="ci/cd" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/pasted-from-clipboard.png?raw=true">](https://habr.com/ru/company/otus/blog/515078/)
 [<img height="26px" align="left" alt="docker" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/CozzMFiUkAAD0vq.png?raw=true">](https://www.docker.com/)
 [<img height="26px" align="left" alt="mongodb" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/mongodb.png?raw=true">](https://www.mongodb.com/)
-[<img height="26px" align="left" alt="php" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/php.png?raw=true">](https://www.php.net/)]
-[<img height="26px" align="left" alt="yiiframework" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/yii.png?raw=true">](https://www.yiiframework.net/)]
+[<img height="26px" align="left" alt="php" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/php.png?raw=true">](https://www.php.net/)
+[<img height="26px" align="left" alt="yiiframework" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/yii.png?raw=true">](https://www.yiiframework.net/)
 
 <br />
 
