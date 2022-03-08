@@ -1,10 +1,30 @@
-### Hello everyone, my name is Andrei 👋
+### 👋 Hello everyone, my name is Andrei 😃
 - 🔭 I study frontend development and everything connected with it.
 - 🔥 I study other programming languages and I want to improve my knowledge of algorithms.
 - 📫 How to reach me: [Telegram: @arkhipovandrei](https://t.me/arkhipovandrei), [E-mail: arkhipovandrei.p@gmail.com](mailto:arkhipovandrei.p@gmail.com)
 - 🌎 Fun fact: I like traveling and visiting new places. 😄 
 
-### My stack
+<br/>
+
+ <!--A little more about me...
+
+ ```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+-->
+
+### 🛠️ Languages and Tools
 [<img height="26px" align="left" alt="javascript" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/js_thumb.jpg?raw=true">](https://learn.javascript.ru/)
 [<img height="26px" align="left" alt="typescript" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/typescript.png?raw=true">](https://www.typescriptlang.org/)
 [<img height="26px" align="left" alt="react" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/png-transparent-black-and-blue-atom-icon-screenshot-react-javascript-responsive-web-design-github-angularjs-github-logo-electric-blue-signage.png?raw=true">](https://reactjs.org/)
@@ -12,23 +32,21 @@
 [<img height="26px" align="left" alt="html" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/kisspng-html-web-development-responsive-web-design-cascadi-end-5acb4fc4bdc2a9.6992816915232736687773.jpg?raw=true">](http://htmlbook.ru/html)
 [<img height="26px" align="left" alt="css" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/logo-css3.png?raw=true">](https://www.w3schools.com/css/default.asp)
 [<img height="26px" align="left" alt="nodejs" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/kisspng-node-js-javascript-react-mean-angularjs-austin-anderson-5c3569cfb277c8.831319791547004367731.jpg?raw=true">](https://nodejs.org/en/)
-[<img height="26px" align="left" alt="ci/cd" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/pasted-from-clipboard.png?raw=true">](https://habr.com/ru/company/otus/blog/515078/)
-[<img height="26px" align="left" alt="docker" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/CozzMFiUkAAD0vq.png?raw=true">](https://www.docker.com/)
 [<img height="26px" align="left" alt="mongodb" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/mongodb.png?raw=true">](https://www.mongodb.com/)
 [<img height="26px" align="left" alt="php" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/php.png?raw=true">](https://www.php.net/)
 [<img height="26px" align="left" alt="yiiframework" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/yii2.png?raw=true">](https://www.yiiframework.net/) 
+[<img height="26px" align="left" alt="ci/cd" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/pasted-from-clipboard.png?raw=true">](https://habr.com/ru/company/otus/blog/515078/)
+[<img height="26px" align="left" alt="docker" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/CozzMFiUkAAD0vq.png?raw=true">](https://www.docker.com/)
+
 <br/>
 
-### Statistics
+### 📈 Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkhipovandrei)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkhipovandrei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Latest Blog Posts
+<br/>
+
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [How I built one of the top 20 most used Github Actions](https://www.gautamkrishnar.com/how-i-built-one-of-the-top-20-most-used-github-actions/)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = &quot;on&quot;](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
