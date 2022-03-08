@@ -3,7 +3,6 @@
 - 🔥 I study other programming languages and I want to improve my knowledge of algorithms.
 - 📫 How to reach me: [Telegram: @arkhipovandrei](https://t.me/arkhipovandrei), [E-mail: arkhipovandrei.p@gmail.com](mailto:arkhipovandrei.p@gmail.com)
 - 🌎 Fun fact: I like traveling and visiting new places. 😄 
-
 <br/>
 
  <!--A little more about me...
@@ -39,12 +38,12 @@ const thai = {
 [<img height="26px" align="left" alt="docker" src="https://github.com/arkhipovandrei/arkhipovandrei/blob/main/images/CozzMFiUkAAD0vq.png?raw=true">](https://www.docker.com/)
 
 <br/>
+<br/>
 
 ### 📈 Statistics
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arkhipovandrei)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arkhipovandrei&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>
 
 ### 📕 Latest Blog Posts
